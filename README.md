@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 
 | Project Link | Completion Date | Tools | Project Description |
 | --- | --- | --- | --- | 
-| Coming soon | Coming Soon | Coming Soon | Coming Soon |
+|  [🚀 CDL Analysis ](https://github.com/anthonydiazz/cdl_analysis) | Septemeber 7, 2024 | Jupyter Notebook, Python | This project involves an in-depth analysis of the Call of Duty League (CDL) from 2021 to 2024, focusing on team performance across different metrics. The goal was to answer key questions about which teams have consistently performed well, which team has been the most dominant, how teams perform in different environments (online vs. LAN), and what factors contribute to qualifying for the CDL Championships. Using data on season points, tournament placements, and win percentages, various visualizations such as heatmaps, line charts, and bar charts were created to draw meaningful insights from the data. |
 
 
 # Python Games 
