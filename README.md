@@ -21,7 +21,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 | Project Link | Completion Date | Tools | Project Description |
 | --- | --- | --- | --- | 
 |  [🚀 CDL Analysis ](https://github.com/anthonydiazz/cdl_analysis) | Septemeber 7, 2024 | Jupyter Notebook, Python | This project involves an in-depth analysis of the Call of Duty League (CDL) from 2021 to 2024, focusing on team performance across different metrics. The goal was to answer key questions about which teams have consistently performed well, which team has been the most dominant, how teams perform in different environments (online vs. LAN), and what factors contribute to qualifying for the CDL Championships. Using data on season points, tournament placements, and win percentages, various visualizations such as heatmaps, line charts, and bar charts were created to draw meaningful insights from the data. |
-
 |  [🛒 IKEA Sales Dashboard ](https://github.com/anthonydiazz/ikea_db) | October 4, 2024 | Excel, PowerBi | This project focuses on analyzing sales data from IKEA's Cookshop category, specifically products in HFB 14 and HFB 15, over a 12-week period. The dashboard provides insights into stock levels, sales performance, and key metrics to help understand which products performed best and which had the most available stock at the end of the period |
 
 
