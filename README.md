@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 
 | Project Link | Completion Date | Tools | Project Description |
 | --- | --- | --- | --- | 
-| [🚀 CDL Seasons ](https://github.com/anthonydiazz/Web-Scraping-CDL) | August 25, 2024 | Jupyter Notebook, Python, SQL | This project involves scraping, cleaning, and analyzing data from the Call of Duty League (CDL) seasons spanning 2021 to 2024. The goal was to gather comprehensive statistics on team performances across different seasons, including online qualifiers, LAN tournaments, and the prestigious COD Champs. After collecting and cleaning the data, I performed in-depth analysis to uncover insights into team performances, win rates, and overall trends within the league. The project demonstrates expertise in web scraping, data manipulation, and SQL-based data integration.
+| [🚀 CDL Seasons ](https://github.com/anthonydiazz/Web-Scraping-CDL) | August 25, 2024 | Jupyter Notebook, Python, Excel, SQL | This project involves scraping, cleaning, and analyzing data from the Call of Duty League (CDL) seasons spanning 2021 to 2024. The goal was to gather comprehensive statistics on team performances across different seasons, including online qualifiers, LAN tournaments, and the prestigious COD Champs. After collecting and cleaning the data, I performed in-depth analysis to uncover insights into team performances, win rates, and overall trends within the league. The project demonstrates expertise in web scraping, data manipulation, and SQL-based data integration.
 | [NY Times](https://github.com/anthonydiazz/NYtimesAPI) | Decemeber 10, 2023 | Python | This project involved scraping article headlines from the New York Times for specific months and years using the NY Times Archive API. The data collected was analyzed to gain insights into word frequency, sentiment, and the presence of specific keywords. The project showcases skills in web scraping, data cleaning, and analysis. The results provided a comparative look at how certain terms and sentiments were represented in the media during different time periods. |
 
 
@@ -21,6 +21,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 | Project Link | Completion Date | Tools | Project Description |
 | --- | --- | --- | --- | 
 |  [🚀 CDL Analysis ](https://github.com/anthonydiazz/cdl_analysis) | Septemeber 7, 2024 | Jupyter Notebook, Python | This project involves an in-depth analysis of the Call of Duty League (CDL) from 2021 to 2024, focusing on team performance across different metrics. The goal was to answer key questions about which teams have consistently performed well, which team has been the most dominant, how teams perform in different environments (online vs. LAN), and what factors contribute to qualifying for the CDL Championships. Using data on season points, tournament placements, and win percentages, various visualizations such as heatmaps, line charts, and bar charts were created to draw meaningful insights from the data. |
+
+|  [🛒 IKEA Sales Dashboard ](https://github.com/anthonydiazz/ikea_db) | October 4, 2024 | Excel, PowerBi | This project focuses on analyzing sales data from IKEA's Cookshop category, specifically products in HFB 14 and HFB 15, over a 12-week period. The dashboard provides insights into stock levels, sales performance, and key metrics to help understand which products performed best and which had the most available stock at the end of the period |
 
 
 # Python Games 
