@@ -1,11 +1,21 @@
 # 🗺 Anthony's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in various domains including web scraping, Python game development, and data analysis. Explore the different sections to see the work I've done and the skills I've developed.
+Welcome to my tech portfolio! Here, I document a summary of my projects in various domains including web scraping, Python game development, data analysis, and IT Projects. Explore the different sections to see the work I've done and the skills I've developed.
 
 ## 📚 Table of Contents
+- [IT Projects](#IT-projects)
 - [Web Scraping Projects](#web-scraping-projects)
 - [Python Games](#python-games)
 - [Data Analysis Projects](#data-analysis-projects)
+
+
+# IT Projects
+
+
+| Project Link | Completion Date | Tools | Project Description |
+| --- | --- | --- | --- | 
+| [🖥️ Windows Server 2022 Domain Lab ](https://github.com/anthonydiazz/IT-Infrastructure-Lab-Project) | May 23, 2025 | VirtualBox, Windows Server 2022, Windows 10, AD DS, DHCP, RAS, GPO, RSAT |  Built a full virtual IT environment with domain controller setup, client domain joins, DHCP/RAS configuration, user and OU creation, password policies, GPO enforcement, and remote support. Demonstrates practical skills in system administration and enterprise troubleshooting. |
+
 
 # Web Scraping Projects
 
@@ -29,3 +39,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 | --- | --- | --- | --- | 
 | [👾 Alien Invasion Game](https://github.com/anthonydiazz/Alien-game) | March 15, 2024 | Python | This project is a 2D space shooter game built using the Pygame library in Python. The player controls a spaceship and must defend Earth from waves of UFOs that descend from the top of the screen. The game includes features like score tracking, increasing difficulty, multiple lives, and a high score system. The project demonstrates skills in game development, user input handling, collision detection, and basic animation in Python. |
 | [🎰 Slot Machine Game](https://github.com/anthonydiazz/slot_machine) | February 23, 2024 | Python | This project is a simple text-based slot machine game created in Python. Players can deposit money, choose the number of lines to bet on, and spin the slot machine. The game randomly generates symbols, and players win or lose based on matching symbols across the lines they bet on. This project demonstrates skills in Python programming, including handling user input, random number generation, and basic game logic implementation. |
+
