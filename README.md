@@ -15,7 +15,7 @@ Welcome to my tech portfolio! Here, I document a summary of my projects in vario
 | Project Link | Completion Date | Tools | Project Description |
 | --- | --- | --- | --- | 
 | [🖥️ Windows Server 2022 Domain Lab ](https://github.com/anthonydiazz/IT-Infrastructure-Lab-Project) | May 23, 2025 | VirtualBox, Windows Server 2022, Windows 10, AD DS, DHCP, RAS, GPO, RSAT |  Built a full virtual IT environment with domain controller setup, client domain joins, DHCP/RAS configuration, user and OU creation, password policies, GPO enforcement, and remote support. Demonstrates practical skills in system administration and enterprise troubleshooting. |
-| 🛠️ IT Helpdesk Ticketing Solutions(https://github.com/anthonydiazz/IT-Helpdesk-Ticketing-Solutions-Project) | June 2025 | Jira, Windows 10, Windows Server 2022, Group Policy, Shadow Copies, Adobe Acrobat | Resolved a range of real-world IT support tickets including shared drive permissions, folder redirection via GPO, PDF application errors, and deleted file recovery using shadow copies. Demonstrated best practices in user communication, internal documentation, remote support, and change coordination across departments. |
+| 🛠️ [IT Helpdesk Ticketing Solutions](https://github.com/anthonydiazz/IT-Helpdesk-Ticketing-Solutions-Project) | June 2025 | Jira, Windows 10, Windows Server 2022, Group Policy, Shadow Copies, Adobe Acrobat | Resolved a range of real-world IT support tickets including shared drive permissions, folder redirection via GPO, PDF application errors, and deleted file recovery using shadow copies. Demonstrated best practices in user communication, internal documentation, remote support, and change coordination across departments. |
 
 
 
